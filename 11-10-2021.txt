@@ -1,0 +1,144 @@
+What is meant by Testing??
+Checking the quality of any product
+Verification of Capabilities
+Finding the defects
+Balancing the Risk Management
+expected vs actual
+Meet the customer expectation with his requirement
+
+With out Testing what happens??
+We are missing quality of the product
+Product is good / bad
+Loosing customers
+Waste of Money
+Loss of Time
+
+Software Testing??
+
+Verifying the software whether it is working as per the requirements
+
+
+Gathering the requirements for a login functionality??
+
+1. UI / Front end / Display buttons or fields are dispalying as per the requirements
+2. All the required fields / elements should be displayed on the screen
+3. Username fields is working as per the requirement like
+allows max 15 characters
+allow all type of characters, numerics, small and capital letters etc.,
+allow min 5 characters etc.,
+4. Password field is working as per the requirement
+5. Login button is working as expected like
+valid username and valid password should login
+valid username and invalid password should not login
+
+How many ways we are going to perform software testing??
+Manual & Automation
+
+What is your role??
+QA Engineer / quality Engineer / Software Tester / Automation Tester / Automation Architect / Test Lead / Project Manager / Quality Analyst
+Quality Manager.
+
+What are your roles & Responsibilities as a Functional Tester / QA Engineer ??
+Analysing requirements
+Finalising the scenarios
+Writting the test cases
+Reviwing the test cases (optional)
+Gathering the test data (optional)
+Executing the test cases
+Finding the defects (deviation from reqirement)
+Report the defects to the developers
+Verifying the defects after the code is updated / modified
+Complete the test case execution with maximum no defects
+
+What is meant by Automation??
+Testing the application by using the tools
+Reducing the manual effort
+Performing the tasks by using any script / programming language
+Helps in reducing the repetative tasks
+To reduce the manual errors
+
+What are the steps involved in developing the software??
+Gather the requirements from the client
+Analyse / Freeze the requirements
+Design the code/project
+Developing the code
+Testing the code
+Deploy the code 
+
+For Developing the software what are the tools required??
+1. Server
+2. Software - Programming Language / Database / Requirement management Tools / Defect Management Tools / Tracking Tools etc.,
+3. Hardware - Ram / Hard disk / Storage / Network Access etc.,
+4. License
+
+Why Software needs to updated ??
+1. Based on the market expectations
+2. Eradicate errors / bugs
+3. Updating the functionalities
+4. Improve Security
+5. Improve the Speed
+6. Improve the quality
+7. Improve the performance
+8. update the functionalities
+9. Market demands
+10. Better user experience
+11. Increasing the customers
+12. More Revenue 
+13. Competition
+
+
+Why repetative testing is required??
+
+1. Based on the market expectations
+2. Eradicate errors / bugs
+3. Updating the functionalities
+4. Improve Security
+5. Improve the Speed
+6. Improve the quality
+7. Improve the performance
+8. update the functionalities
+9. Market demands
+10. Better user experience
+11. Increasing the customers
+12. More Revenue 
+13. Competition
+14. Because of new functionalities the old functionalities should not effect
+
+
+What are the roles & responsibilities of an Automation Tester??
+
+Analyzing the requirements
+Designing the framework
+Enhancing the framework to suit project demands
+Developing Test Scripts 
+Executing Test Scripts
+Maintenace / Updating Test Scripts as per the enhancements / requirements
+Triggering the batch as per the demand
+
+
+Assignment:
+1. Roles & Responsibilities of Funtional Tester?
+2. Roles & Responsibilities of Automation Tester?
+3. Phases is SDLC - Software Development Life Cycle
+4. Software Testing Life cycle
+5. Different software languages are available & percentage of users?
+6. Different Automation Tools & - percentage of users?
+7. Differerent ways of performing Manual Testing?
+8. Purpose of Software Testing?
+9. What is meant by Domain & Different domains that are available in the market? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

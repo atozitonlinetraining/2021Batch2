@@ -1,0 +1,469 @@
+What is meant by Testing??
+Checking the quality of any product
+Verification of Capabilities
+Finding the defects
+Balancing the Risk Management
+expected vs actual
+Meet the customer expectation with his requirement
+
+With out Testing what happens??
+We are missing quality of the product
+Product is good / bad
+Loosing customers
+Waste of Money
+Loss of Time
+
+Software Testing??
+
+Verifying the software whether it is working as per the requirements
+
+
+Gathering the requirements for a login functionality??
+
+1. UI / Front end / Display buttons or fields are dispalying as per the requirements
+2. All the required fields / elements should be displayed on the screen
+3. Username fields is working as per the requirement like
+allows max 15 characters
+allow all type of characters, numerics, small and capital letters etc.,
+allow min 5 characters etc.,
+4. Password field is working as per the requirement
+5. Login button is working as expected like
+valid username and valid password should login
+valid username and invalid password should not login
+
+How many ways we are going to perform software testing??
+Manual & Automation
+
+What is your role??
+QA Engineer / quality Engineer / Software Tester / Automation Tester / Automation Architect / Test Lead / Project Manager / Quality Analyst
+Quality Manager.
+
+What are your roles & Responsibilities as a Functional Tester / QA Engineer ??
+Analysing requirements
+Finalising the scenarios
+Writting the test cases
+Reviwing the test cases (optional)
+Gathering the test data (optional)
+Executing the test cases
+Finding the defects (deviation from reqirement)
+Report the defects to the developers
+Verifying the defects after the code is updated / modified
+Complete the test case execution with maximum no defects
+
+What is meant by Automation??
+Testing the application by using the tools
+Reducing the manual effort
+Performing the tasks by using any script / programming language
+Helps in reducing the repetative tasks
+To reduce the manual errors
+
+What are the steps involved in developing the software??
+Gather the requirements from the client
+Analyse / Freeze the requirements
+Design the code/project
+Developing the code
+Testing the code
+Deploy the code 
+
+For Developing the software what are the tools required??
+1. Server
+2. Software - Programming Language / Database / Requirement management Tools / Defect Management Tools / Tracking Tools etc.,
+3. Hardware - Ram / Hard disk / Storage / Network Access etc.,
+4. License
+
+Why Software needs to updated ??
+1. Based on the market expectations
+2. Eradicate errors / bugs
+3. Updating the functionalities
+4. Improve Security
+5. Improve the Speed
+6. Improve the quality
+7. Improve the performance
+8. update the functionalities
+9. Market demands
+10. Better user experience
+11. Increasing the customers
+12. More Revenue 
+13. Competition
+
+
+Why repetative testing is required??
+
+1. Based on the market expectations
+2. Eradicate errors / bugs
+3. Updating the functionalities
+4. Improve Security
+5. Improve the Speed
+6. Improve the quality
+7. Improve the performance
+8. update the functionalities
+9. Market demands
+10. Better user experience
+11. Increasing the customers
+12. More Revenue 
+13. Competition
+14. Because of new functionalities the old functionalities should not effect
+
+
+What are the roles & responsibilities of an Automation Tester??
+
+Analyzing the requirements
+Designing the framework
+Enhancing the framework to suit project demands
+Developing Test Scripts 
+Executing Test Scripts
+Maintenace / Updating Test Scripts as per the enhancements / requirements
+Triggering the batch as per the demand
+
+
+Assignment:
+1. Roles & Responsibilities of Funtional Tester?
+2. Roles & Responsibilities of Automation Tester?
+3. Phases is SDLC - Software Development Life Cycle
+4. Software Testing Life cycle
+5. Different software languages are available & percentage of users?
+6. Different Automation Tools & - percentage of users?
+7. Differerent ways of performing Manual Testing?
+8. Purpose of Software Testing?
+
+9. What is meant by Domain & Different domains that are available in the market? 
+
+Domain: Same functionalities with different business
+
+Banking Domain - Bank of America, US Bank, Duetche Bank, Citi Bank, Lyods Bank, Finami Bank
+
+Insurance Domain - Lyods Insurance, Farmers Insurance, Alfa Insurance, Signa Insurance, United Health Care
+
+Healthcare Domain - Wallgreens, United Health Care, Iqvia
+
+Education Domain - Pearson
+
+Manufacturing Domain - Honeywell, caterpillar, Apple, Bosch
+
+Travel Domain - SpiceJet, Air India, Singapore Airlines, Emirates 
+
+eCommerce Domain - Amazon, Alibaba, Myntra 
+
+Hospitality Domain - Taj Groups, oyo
+
+Automobile Domain - AUdi, Benz, Volvo
+
+
+Scenarios: 1. Verifying Login functionality with Valid username and password
+	   2. Verifying Login functionality with out filling username and password
+
+
+Test Case:
+
+1. Launch the browser and enter the url   - Browser should be launched
+
+2. Enter valid username and password      - Data should be filled
+
+3. Click on Login Button		  - Login button should work
+
+
+Same test case if we consider for Automation:
+
+1. Launch the browser  - 
+
+2. Enter the url
+
+3. Finding the location of the element
+
+4. Performing Action on the element
+
+5. Verification / Validation of Login page
+
+
+The two most important things in the Automation:
+
+1. Finding the location of the element
+
+2. Performing Action on the element
+
+
+What are the factors needs to be considered for Selecting Automation Tool:
+
+1. Cost of the Tool    - opensource / Licensed
+
+2. Type of Application - Desktop / Web / Mobile / Cloud / Robotics
+
+3. Type of the Framework - Inbuilt & User defined - Keyword, Data Driven
+
+4. Type of the Operating System - Windows / Linux / Unix / Android / IOS
+
+5. Type of the Browser - Chrome, Firefox, Edge, Safari, Opera, UC, Explorer
+
+6. Reporting - Based on the Automation Tool, Different reports are available
+
+7. Maintenance - Easy to maintain / update
+
+8. Integration with Other Tools - ALM, Jira
+
+9. Language - Java, Dotnet, C#, Ruby, Python, R, Go Lang, Gosu, PHP, Main frames etc.,
+
+10. Build Tools - Ant, Maven, Gradle 
+
+11. CI/CD Tools - Jenkins, TFS, Bammboo
+
+12. SCM Tools - Git, Bit Bucket etc.,
+
+13. Framework Approaches - TDD, BDD etc.,
+
+14. Type of IDE - Eclipse, Intellij, Visual Studio, Ruby Mine, Pycharm, Anaconda
+
+
+Different Automation Tools that are available in the market:
+
+1. QTP / UFT
+
+2. Selenium
+
+3. Tosca
+
+4. AA, UI Path & BluePrism - RPA Tools
+
+5. WATIR
+
+6. Robotium
+
+7. RFT 
+
+8. Test Magic
+
+9. Leapwork
+
+10. Oracle Application Test Suite 
+
+Advantages of Selenium over Other Automation Tools:
+
+1. Cost of the Tool    - opensource 
+
+2. Type of Application -  Web / Mobile / Cloud / Robotics but partially Desktop
+
+3. Type of the Framework - Inbuilt & User defined - Keyword, Data Driven
+
+4. Type of the Operating System - Windows / Linux / Unix / Android / IOS
+
+5. Type of the Browser - Chrome, Firefox, Edge, Safari, Opera, Internet Explorer
+
+6. Reporting - Based on the Automation Tool, Different reports are available
+
+7. Maintenance - Easy to maintain / Easy to update
+
+8. Integration with Other Tools - AutoIT etc.,
+
+9. Language - Java, Dotnet, C#, Ruby, Python, etc.,
+
+10. Build Tools - Ant, Maven, Gradle 
+
+11. CI/CD Tools - Jenkins, TFS, Bammboo
+
+12. SCM Tools - Git, Bit Bucket etc.,
+
+13. Framework Approaches - TDD, BDD etc.,
+
+14. Type of IDE - Eclipse, Intellij, Visual Studio, Ruby Mine, Pycharm, Anaconda
+
+
+Interview Questions:
+
+1. Two Most important things for Automation?
+
+2. Factors needs to be considered for Selecting Automation Tool?
+
+3. Different Automation Tools that are available in the market?
+
+4. Advantages of Selenium over other Automation Tools?
+
+5. Limitations of Selenium?
+
+
+Finding the locators in Selenium:
+
+id
+name
+linktext
+xpath
+cssselector
+partial link text
+classname
+tagname
+
+<input type="text" id="fname" name="firstname"/>
+
+input is htmltag
+
+type="text" is the mandatory attribute
+
+id, name are other attributes
+
+Html Elements:	       HTML Tag	       Mandatory Attribute
+
+Textbox			input		type="text"			
+
+Password		input		type="password"
+
+Radio 			input		type="radio"
+
+Button			input		type="button"
+
+Dropdown - Single 	select		-
+
+Dropdown - Multiple 	select		multipe="true"
+
+Checkbox 		input		type="checkbox"
+
+Link			a		href
+
+Image with Link		img		src
+
+TextArea		textarea	-
+
+Browse			input		type="file"
+
+
+Questions:
+
+1. Create Sample Registration Page
+2. mHTML Tags
+3. Mandatory Attributes
+4. Element Locators in Selenium
+5. Which Element locator is advisable to use and why?
+6. Diff b/w linktext and partial link text
+7. Diff b/w xpath and css selector
+8. Which element locator is advisable for crossbrowser testing?
+
+
+Xpath:
+
+1. Absolute xpath
+2. Relative xpath
+
+
+1. Absolute xpath:
+
+xpath for first name field:
+
+html/body/input[1]
+
+Note: /(single slash) is used to move from parent node to child node
+
+xpath for multiple select:
+
+html/body/select[2]
+
+
+2. Relative xpath:
+
+i) By using attributes:
+
+Syntax: //htmltag[@attribute='value']
+
+<select aria-label="Day" name="birthday_day" id="day" title="Day" class="_9407 _5dba _9hk6 _8esg"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14" selected="1">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select>
+
+select -> htmltag
+
+aria-label -> attribute
+
+name -> attribute
+
+id -> attribute
+
+//select[@aria-label='Day']
+
+//select[@name='birthday_day']
+
+//select[@id='day']
+
+Note: While Selecting attributes, we need to select unique attribute
+
+
+ii) By using text():
+
+Syntax: //htmltag[text()='value']
+
+<div class="mbs _52lq _9bp_ fsl fwb fcb">Create a new account</div>
+
+Note: Always text is not associated with any attribute
+
+//div[text()='Create a new account']
+
+Note: text() matches for the exact pattern 
+
+
+iii) By using contains(text()):
+
+Syntax: //htmltag[contains(text(),'value')]
+
+//a[contains(text(),'Already')]
+
+Contains text() matches for the part of the text
+
+
+iv) By using contains(@attribute):
+
+Syntax: //htmltag[contains(@attribute,'value')
+
+Eg: //input[contains(@name,'last')]
+
+
+simplified way:
+
+1. By using attributes:		  //htmltag[@attribute='value']
+
+2. By using text():		  //htmltag[text()='value']
+
+3. By using contains(text()):	  //htmltag[contains(text(),'value')]
+
+4. By using contains(@attribute): //htmltag[contains(@attribute,'value')]
+
+
+By using and attributes:
+
+syntax: //htmltag[@attribute1='value' and @attribute2='value' and ---------]
+
+By using or attributes:
+
+syntax: //htmltag[@attribute1='value' or @attribute2='value' or ---------]
+
+Note1: if all the attributes matches exactly for the and attributes
+
+Note2: if either of the attribute match for the or attributes
+
+Questions:
+
+1. what is the difference between absolute and relative xpath?
+
+2. what is the diff b/w text() and contains(text())?
+
+3. what is the diff b/w attributes and contains(@attribute)
+
+4. what is the significance of  'and' & 'or' while using attributes?
+
+5. what is the drawback of absolute xpath?
+
+6. what is the advantage of contains(text()) or contains(@attribute)?
+
+7. Explain the various syntaxes of xpath?
+
+8. what is the difference b/w single slash and double slash?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

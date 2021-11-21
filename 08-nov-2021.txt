@@ -1,0 +1,37 @@
+CSS selector:
+
+1. if we have id attribute, then we can find css selector by:
+
+#idattributevalue
+
+<input type="text" name="username" value="" id="username" class="textField" placeholder="Username">
+
+<input type="text" name="username" value="" id="username" class="textField" placeholder="Username">
+
+#username
+
+2. if we have class attribute, then we can find css selector by:
+
+.classattributevalue
+
+
+Note: If we have spaces in class attribute value, then we can replace the space with .
+
+3. if we have other attributes, then we can find css selector by:
+
+[attribute1='value'][attribute2='value'][attribute3='value']-------
+
+Ex:[name='email'][id='email'][type='text']
+
+4. if we want to use to combination of htmltag, id attribute, class attribute and other attributes then
+
+htmltag#idattribute.classattribute[attribute1='value']--------
+
+Note: To move from parent node to child node we have to use > symbol
+
+div._6lux>input#email.inputtext._55r1._6luy[name='email'][type='text']
+
+
+
+
+
